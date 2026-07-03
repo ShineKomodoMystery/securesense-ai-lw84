@@ -1,4 +1,4 @@
-# 
+# Actualizado SecureSense instalador. Descarga e instala con monitoreo en tiempo real y escalable — rápido, seguro y fácil de usar.
 
 
 
